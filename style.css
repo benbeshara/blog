@@ -1,0 +1,46 @@
+html {
+    background-color: #333345;
+    color: #ccccde;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    border-bottom: 2px solid #ccccde;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 1rem;
+}
+
+.footer {
+    padding-top: 2rem;
+    font-size: 0.8rem;
+    color: #bbbbcd;
+    text-align: center;
+}
+
+.postlink a {
+    color: white;
+    text-decoration: none;
+    background-color: #cc2212;
+    border-radius: 0.3rem;
+    padding: 0.2rem 0.5rem;
+    font-family: "Courier New", Courier, monospace;
+    display: inline-block;
+}
+
+.right {
+    text-align: right;
+}
+
+.code {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.excerpt {
+    border-left: 2px solid #ccccde;
+    padding-left: 0.5rem;
+}

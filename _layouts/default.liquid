@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="../style.css" />
+    </head>
+    <body>
+        <div class="container">
+            {% include "header.liquid" %}
+            <h2>{{ page.title }}</h2>
+            {{ page.content }}
+            <div class="postlink right"><a href="/">< Take me home space cowboy</a></div>
+            {% include "footer.liquid" %}
+        </div>
+  </body>
+</html>
