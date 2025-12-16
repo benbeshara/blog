@@ -5,6 +5,9 @@ published_date: 2025-12-15 23:46:08.908015 +0000
 layout: default.liquid
 is_draft: false
 ---
+
+activism under capital?? it's closer than you think!
+
 > I was going to publish this when my investigation was complete. I have spent a long time, tonnes of resources and time 
 > to expose this problem and find accountability. I emailed the guardian about this about six months ago and heard nothing
 > back, assuming it was auto-filed in a 'cooker bullshit' inbox. Well, they published something a few weeks back, taking
